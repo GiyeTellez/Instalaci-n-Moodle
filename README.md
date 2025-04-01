@@ -20,7 +20,7 @@ Comando sudo nano
 <img src="Captura desde 2025-03-12 12-21-59.png" alt="Descripció de la imatge">
 
 GNU Nano
-<img src="Captura desde 2025-03-05 12-22-40.png" alt="Descripció de la imatge">
+<img src="Captura desde 2025-03-12 12-29-42.png" alt="Descripció de la imatge">
 
 Localizado ;max_input_vars = 1000
 <img src="Captura desde 2025-03-05 12-27-48.png" alt="Descripció de la imatge">
