@@ -143,3 +143,4 @@ Otra opcion que nos ofrece moodle es la creacion de insignias para los usuarios
 
 Insignia creada
 <img src="Captura desde 2025-04-01 18-49-42.png" alt="Descripció de la imatge">
+
