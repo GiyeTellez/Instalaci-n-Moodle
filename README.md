@@ -4,9 +4,6 @@ Seleccionamos idioma
 Confirmar las rutas
 <img src="Captura desde 2025-03-05 12-06-48.png" alt="Descripció de la imatge">
 
-Añadir archivos
-<img src="Captura desde 2025-03-05 12-21-18.png" alt="Descripció de la imatge">
-
 Seleciona el controlador de la base de datos
 <img src="Captura desde 2025-03-05 12-22-40.png" alt="Descripció de la imatge">
 
