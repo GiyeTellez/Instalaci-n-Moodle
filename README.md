@@ -144,3 +144,6 @@ Otra opcion que nos ofrece moodle es la creacion de insignias para los usuarios
 Insignia creada
 <img src="Captura desde 2025-04-01 18-49-42.png" alt="Descripció de la imatge">
 
+Dentro del curso hay un apartado de calificaciones donde podemos poner nota final del tema a los alumnos
+<img src="Captura desde 2025-04-02 00-50-27.png" alt="Descripció de la imatge">
+
