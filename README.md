@@ -156,3 +156,7 @@ Instalamos el plugin "Adaptable" una vez hecho actualizaremos la base de datos
 Cambiamos el tema por el recien instalado
 <img src="Captura desde 2025-04-02 23-38-12.png" alt="Descripció de la imatge">
 
+Por ultimo bloqueamos una lista de IPs desde administracion del sitio > Seguridad > bloqueador de IP
+<img src="Captura desde 2025-04-03 00-36-36.png" alt="Descripció de la imatge">
+
+
