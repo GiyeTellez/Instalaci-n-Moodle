@@ -147,3 +147,12 @@ Insignia creada
 Dentro del curso hay un apartado de calificaciones donde podemos poner nota final del tema a los alumnos
 <img src="Captura desde 2025-04-02 00-50-27.png" alt="Descripció de la imatge">
 
+Entramos en el siguiente enlace "https://moodle.org/plugins/theme_boost_union" para descargar un nuevo tema
+<img src="Captura desde 2025-04-02 21-08-28.png" alt="Descripció de la imatge">
+
+Instalamos el plugin "Adaptable" una vez hecho actualizaremos la base de datos 
+<img src="Captura desde 2025-04-02 23-31-37.png" alt="Descripció de la imatge">
+
+Cambiamos el tema por el recien instalado
+<img src="Captura desde 2025-04-02 23-38-12.png" alt="Descripció de la imatge">
+
